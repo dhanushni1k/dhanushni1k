@@ -1,7 +1,3 @@
-Here’s a professional and comprehensive README file for your task. You can copy and paste it directly:
-
----
-
 # Credit Card Fraud Detection using Logistic Regression
 
 ## Overview
